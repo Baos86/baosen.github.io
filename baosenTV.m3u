@@ -687,47 +687,47 @@ http://urtv.cc:80/live/297340/297340/6613.m3u8
 http://urtv.cc:80/live/297340/297340/7112.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国外体育",Premier Sports 2
 http://urtv.cc:80/live/297340/297340/7113.m3u8
-#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港台测试,#genre#",#genre#",香港卫视
+#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港台测试",香港卫视
 https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
-#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港台测试,#genre#",#genre#",香港卫视文旅台
+#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港台测试",香港卫视文旅台
 http://hw-play.lezhibo.com/live/1fb871bac32a4c96b206a85aa573a161.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台测试,#genre#",#genre#",翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台测试",翡翠台
 http://gaoqingds.top:80/b_kdsshZBOPPoG.php?id=TVBjadeHK&xid=flv3948069e.live.126.net&sid=.flv
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台测试,#genre#",#genre#",华丽翡翠
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台测试",华丽翡翠
 http://iptv.tvfix.org/hls/jadenhk2.m3u8
-#EXTINF:-1 tvg-id="129" tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="港台测试,#genre#",#genre#",TVB经典台
+#EXTINF:-1 tvg-id="129" tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="港台测试",TVB经典台
 http://iptv.tvfix.org/hls/tvbjd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台测试,#genre#",#genre#",经典功夫台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台测试",经典功夫台
 http://103.140.229.13/BOBO/bibi.php?id=21715386
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台测试,#genre#",#genre#",看电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台测试",看电影
 http://182.151.211.171:808/hls/58/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台测试,#genre#",#genre#",华娱电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台测试",华娱电影
 http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/268205/live_1845346961_34762297.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台测试,#genre#",#genre#",星空电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台测试",星空电影
 http://103.140.229.13/BOBO/bibi.php?id=23869919
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台测试,#genre#",#genre#",美亚香港
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台测试",美亚香港
 http://iptv.tvfix.org/hls/mydy2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台测试,#genre#",#genre#",美亚台湾
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台测试",美亚台湾
 http://61.222.202.191/live/yzyh.php?id=110
-#EXTINF:-1 tvg-id="517" tvg-name="星卫HD电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="港台测试,#genre#",#genre#",星卫HD电影台
+#EXTINF:-1 tvg-id="517" tvg-name="星卫HD电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="港台测试",星卫HD电影台
 http://61.222.202.191/live/yzyh.php?id=109
-#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="港台测试,#genre#",#genre#",卫视电影台
+#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="港台测试",卫视电影台
 http://iptv.tvfix.org/hls/starmovies.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台测试,#genre#",#genre#",龙翔时代
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台测试",龙翔时代
 http://61.222.202.191/live/yzyh.php?id=102
-#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="港台测试,#genre#",#genre#",东森电影台
+#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="港台测试",东森电影台
 http://dllb.jxin122.top/jj.php?id=29&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台测试,#genre#",#genre#",天映经典
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台测试",天映经典
 http://61.222.202.191/live/yzyh.php?id=107
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台测试,#genre#",#genre#",天映电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台测试",天映电影
 http://61.222.202.191/live/yzyh.php?id=106
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="港台测试,#genre#",#genre#",CHC动作电影
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="港台测试",CHC动作电影
 http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="港台测试,#genre#",#genre#",CHC家庭影院
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="港台测试",CHC家庭影院
 http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="港台测试,#genre#",#genre#",CHC高清电影
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="港台测试",CHC高清电影
 http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台测试,#genre#",#genre#",经典影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台测试",经典影视
 http://data.3g.yy.com/live/hls/29900720/29900720
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国外测试",阿联酋1台
 http://85.132.81.184:8080/atv/index.m3u8
